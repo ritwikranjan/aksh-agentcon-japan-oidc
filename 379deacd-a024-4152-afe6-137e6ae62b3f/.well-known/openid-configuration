@@ -1,0 +1,13 @@
+{
+  "issuer": "https://raw.githubusercontent.com/ritwikranjan/aksh-agentcon-japan-oidc/main/379deacd-a024-4152-afe6-137e6ae62b3f",
+  "jwks_uri": "https://raw.githubusercontent.com/ritwikranjan/aksh-agentcon-japan-oidc/main/379deacd-a024-4152-afe6-137e6ae62b3f/openid/v1/jwks",
+  "response_types_supported": [
+    "id_token"
+  ],
+  "subject_types_supported": [
+    "public"
+  ],
+  "id_token_signing_alg_values_supported": [
+    "RS256"
+  ]
+}
